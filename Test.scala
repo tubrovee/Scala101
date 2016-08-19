@@ -26,7 +26,7 @@ object Test {
   }
   def addNumber(): Integer =
   {
-    val message:Integer=4+4
+    val message:Integer=4+8
     return message
   }
   def returnString(): String =
